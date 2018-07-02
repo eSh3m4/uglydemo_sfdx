@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExternalServiceRegistration xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>pushNotifiation</label>
+    <namedCredential>heroku</namedCredential>
+    <schema>{
+    &quot;swagger&quot;: &quot;2.0&quot;,
+    &quot;info&quot;: 
+    {
+        &quot;description&quot;: &quot;how to send data to a user connected to the web app&quot;,
+        &quot;version&quot;: &quot;1.0.0&quot;,
+        &quot;title&quot;: &quot;Heroku Uggliest app&quot;,
+        &quot;termsOfService&quot;: &quot;http://swagger.io/terms/&quot;,
+        &quot;contact&quot;: 
+        {
+            &quot;email&quot;: &quot;arieunier@salesforce.com&quot;
+        },
+        &quot;license&quot;: 
+        {
+            &quot;name&quot;: &quot;Apache 2.0&quot;,
+            &quot;url&quot;: &quot;http://www.apache.org/licenses/LICENSE-2.0.html&quot;
+        }
+    },
+    &quot;host&quot;: &quot;basecampmadrid.herokuapp.com&quot;,
+    &quot;schemes&quot;: [
+        &quot;https&quot;,
+        &quot;http&quot;
+    ],
+    &quot;produces&quot;: [
+        &quot;application/json&quot;
+    ],
+    &quot;paths&quot;: 
+    {
+        &quot;/send_notification&quot;: 
+        {
+            &quot;post&quot;: 
+            {
+                &quot;summary&quot;: &quot;sends a notification to a user&quot;,
+                &quot;description&quot;: &quot;&quot;,
+                &quot;operationId&quot;: &quot;sendNotification&quot;,
+                &quot;parameters&quot;: [
+                    {
+                        &quot;name&quot;: &quot;message&quot;,
+                        &quot;in&quot;: &quot;query&quot;,
+                        &quot;description&quot;: &quot;the message to send&quot;,
+                        &quot;required&quot;: true,
+                        &quot;type&quot;: &quot;string&quot;
+                    },
+                    {
+                        &quot;name&quot;: &quot;userid&quot;,
+                        &quot;in&quot;: &quot;query&quot;,
+                        &quot;description&quot;: &quot;the user id to send the message to&quot;,
+                        &quot;required&quot;: true,
+                        &quot;type&quot;: &quot;string&quot;
+                    }
+                ],
+                &quot;responses&quot;: 
+                {
+                    &quot;200&quot;: 
+                    {
+                        &quot;description&quot;: &quot;success&quot;,
+                        &quot;schema&quot;: 
+                        {
+                            &quot;$ref&quot;: &quot;#/definitions/simpleResponse&quot;
+                        }
+                    },
+                    &quot;404&quot;: 
+                    {
+                        &quot;description&quot;: &quot;Invalid input&quot;
+                    }
+                }
+            }
+        }
+    },
+    &quot;definitions&quot;: {
+        &quot;simpleResponse&quot;: {
+            &quot;type&quot;: &quot;object&quot;,
+            &quot;properties&quot;: {
+                &quot;status&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                }
+            }
+        }
+    }
+}</schema>
+    <schemaType>OpenApi</schemaType>
+    <schemaUrl>/swagger.json</schemaUrl>
+    <status>Complete</status>
+</ExternalServiceRegistration>

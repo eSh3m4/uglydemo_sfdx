@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "GameActivity__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "sfdx-demo-data-GameActivity__cs.json"
+        ]
+    }
+]

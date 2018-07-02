@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "Participant__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "sfdx-demo-data-Participant__cs.json"
+        ]
+    }
+]

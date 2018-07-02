@@ -1,0 +1,166 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref1"
+            },
+            "Name": "Dandelion Small Batch Chocolate",
+            "Description": "Experience the buzz around San Francisco's newest boutique chocolatier. These beans are slow roasted whole for unparalleled flavor depth.",
+            "image__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/nibs/dandelion1.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref2"
+            },
+            "Name": "Dandelion Assortment",
+            "Description": "Bring the flavor of San Francisco boutique chocolate into your home, or present as a gift to the foodie in your life.",
+            "image__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/nibs/dandelion2.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref3"
+            },
+            "Name": "Caramelized Almonds",
+            "Description": "Addictive treats from the popular new boutique chocolatier in San Francisco's Mission District.",
+            "image__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/nibs/feve1.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref4"
+            },
+            "Name": "Matzo Crunch",
+            "Description": "A uniquely crunchy treat. So good we had to offer it all year round.",
+            "image__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/nibs/matzo.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref5"
+            },
+            "Name": "Patric Mizzou Crunch",
+            "Description": "Some love smooth, some love crunch. This is a crunch! Lively on the palette.",
+            "image__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/nibs/patric1.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref6"
+            },
+            "Name": "Patric IN-NIB-ITABLE",
+            "Description": "For the Nibs lovers in your life: a bar of 72% cacao, dark;y sweet and strewn with crunchy nibs.",
+            "image__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/nibs/patric2.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref7"
+            },
+            "Name": "Patric Limited Edition",
+            "Description": "Salt and chocolate meet in a single bar. For sophisticated palettes.",
+            "image__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/nibs/patric3.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref8"
+            },
+            "Name": "Ritual Nib Bar",
+            "Description": "The finest of Colorado craft chocolatiers produces a memorable nibs bar.",
+            "image__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/nibs/ritual1.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref9"
+            },
+            "Name": "Ritual Assortment",
+            "Description": "This assortment of bars from Colorado's best craft chocolatier is a chocolate education in a box. A fabulous gift.",
+            "image__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/nibs/ritual2.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref10"
+            },
+            "Name": "Rogue",
+            "Description": "Rogue: a labor of love from a true iconoclast. Taste the confection Bon Appetit named \"Chocolate of the Year.\"",
+            "image__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/nibs/rogue1.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref11"
+            },
+            "Name": "Soma Assortment",
+            "Description": "Rainforest flavors like Green Tangerine pair with cacao for an unusually tropical flavor experience.",
+            "image__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/nibs/soma1.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref12"
+            },
+            "Name": "Tcho",
+            "Description": "Tcho! A delightful mixed assortment from the artisanal chocolate factory by the Bay.",
+            "image__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/nibs/tcho2.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref13"
+            },
+            "Name": "Xocolatl De David",
+            "Description": "Mexican heritage chocolate, complete with a hint of heat and cinnamon.",
+            "image__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/nibs/xocolatl.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref14"
+            },
+            "Name": "Chocolat Milkaaaaa",
+            "Description": "Et la marmotte elle met le chocolat dans le papier d'alu!",
+            "image__c": "https://images-na.ssl-images-amazon.com/images/I/61Q7SDCg65L._SX355_.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref15"
+            },
+            "Name": "IMMORTELLE DIVINE CREAM",
+            "Description": "Divine Cream is complete face moisturiser that fights against visible signs of ageing: wrinkles, loss of firmness, radiance and uneven skin tone.",
+            "image__c": "https://img.loccitane.com/P.aspx?l=en-IE&s=500&e=png&name=anti-ageing-moisturiser-immortelle-divine-cream-l%27occitane-uk&id=27DC050I17&v=2"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref16"
+            },
+            "Name": "LUXURY SIZE ALMOND SHOWER OIL",
+            "Description": "A unique oily texture that leaves the skin delightfully perfumed.\r\nLuxury Size Almond Shower Oil 500 ml",
+            "image__c": "https://img.loccitane.com/P.aspx?l=en-IE&s=500&e=png&name=luxury-size-almond-shower-oil&id=29HD500A15&v=2"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref17"
+            },
+            "Name": "PRECIOUS CREAM",
+            "Description": "The Precious Cream helps to restore firmness of the skin.",
+            "image__c": "https://img.loccitane.com/P.aspx?l=en-IE&s=500&e=png&name=anti-wrinkle-cream-for-face-neck-immortelle-precious&id=27CP050I14A&v=2"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref18"
+            },
+            "Name": "PIVOINE SUBLIME PERFECTING CREAM",
+            "Description": "Helps hydrate and beautify skin with our patented PIVOINE SUBLIME complex.",
+            "image__c": "https://img.loccitane.com/P.aspx?l=en-IE&s=500&e=png&name=best-face-cream-pivoine-sublime-perfecting-cream-l%27occitane-uk&id=39CP050P15&v=2"
+        }
+    ]
+}

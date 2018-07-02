@@ -1,0 +1,44 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "GameActivity__c",
+                "referenceId": "GameActivity__cRef1"
+            },
+            "Name": "1 vs 1",
+            "active__c": true
+        },
+        {
+            "attributes": {
+                "type": "GameActivity__c",
+                "referenceId": "GameActivity__cRef2"
+            },
+            "Name": "Heroku Quizz",
+            "active__c": true
+        },
+        {
+            "attributes": {
+                "type": "GameActivity__c",
+                "referenceId": "GameActivity__cRef3"
+            },
+            "Name": "Football",
+            "active__c": true
+        },
+        {
+            "attributes": {
+                "type": "GameActivity__c",
+                "referenceId": "GameActivity__cRef4"
+            },
+            "Name": "This Heroku Presentation",
+            "active__c": true
+        },
+        {
+            "attributes": {
+                "type": "GameActivity__c",
+                "referenceId": "GameActivity__cRef5"
+            },
+            "Name": "Trains",
+            "active__c": true
+        }
+    ]
+}
