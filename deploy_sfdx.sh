@@ -55,7 +55,7 @@ read -p "------------- Finished, type enter to continue "
 
 echo "------------- Finished, Launching web browser !" 
 sfdx force:org:open 
-read -p "------------- Finished, now work on the Org and come back here to deploy to production " 
+read -p "------------- Finished, now work on the Org and come back here to deploy to production . If you don't want to deploy changes to production, exit the program with ctrl c" 
 
 
 echo "Pulling changes " 
