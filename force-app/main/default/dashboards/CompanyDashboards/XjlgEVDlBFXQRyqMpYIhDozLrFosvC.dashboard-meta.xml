@@ -74,18 +74,19 @@
                     <axisBinding>y</axisBinding>
                     <column>RowCount</column>
                 </chartSummary>
-                <componentType>BarStacked</componentType>
+                <componentType>Bar</componentType>
+                <displayUnits>Auto</displayUnits>
                 <drillEnabled>false</drillEnabled>
                 <drillToDetailEnabled>false</drillToDetailEnabled>
                 <enableHover>false</enableHover>
                 <expandOthers>false</expandOthers>
-                <groupingColumn>heroku_logs__c.shorturl__c</groupingColumn>
                 <groupingColumn>heroku_logs__c.useragent__c</groupingColumn>
                 <header>Url and User Agents</header>
-                <legendPosition>Right</legendPosition>
+                <legendPosition>Bottom</legendPosition>
                 <report>unfiled$public/Url_and_User_Agents</report>
                 <showPercentage>false</showPercentage>
-                <showValues>false</showValues>
+                <showPicturesOnCharts>false</showPicturesOnCharts>
+                <showValues>true</showValues>
                 <sortBy>RowValueDescending</sortBy>
                 <useReportChart>false</useReportChart>
             </dashboardComponent>
@@ -97,7 +98,7 @@
     </dashboardGridLayout>
     <dashboardType>SpecifiedUser</dashboardType>
     <isGridLayout>true</isGridLayout>
-    <runningUser>arieunier.deved@salesforce.com</runningUser>
+    <runningUser>test-h3lelfzrndn4@example.com</runningUser>
     <textColor>#000000</textColor>
     <title>Match Results</title>
     <titleColor>#000000</titleColor>
