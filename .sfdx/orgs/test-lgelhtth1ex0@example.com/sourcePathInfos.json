@@ -32,14 +32,14 @@
     [
         "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default",
             "isDirectory": true,
+            "size": 512,
+            "modifiedTime": 1530608467598,
+            "changeTime": 1530608467598,
+            "contentHash": "2e57b9a7acdbb200908d17bb48c51ab81a4bd0f5",
             "isMetadataFile": false,
-            "size": 448,
-            "modifiedTime": 1530522926723,
-            "changeTime": 1530522926723,
-            "contentHash": "e655d4c35e3bb3ac5cd5f32270193361c5de2a52"
+            "state": "u"
         }
     ],
     [
@@ -47,14 +47,12 @@
         {
             "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/applications",
             "isDirectory": true,
-            "size": 96,
-            "modifiedTime": 1530521133274,
-            "changeTime": 1530521133274,
-            "contentHash": "939dc845d326ebcf195f8643f3906ada21e1827d",
+            "size": 128,
+            "modifiedTime": 1530608467518,
+            "changeTime": 1530608467518,
+            "contentHash": "e87615b226bf6810e42202eabf33d8195dbdb370",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -347,14 +345,12 @@
         {
             "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/flexipages",
             "isDirectory": true,
-            "size": 160,
-            "modifiedTime": 1530521133233,
-            "changeTime": 1530521133233,
-            "contentHash": "ae9339c4de1999cde5b08f66495195df3aca1993",
+            "size": 192,
+            "modifiedTime": 1530608467514,
+            "changeTime": 1530608467514,
+            "contentHash": "69c48b5cef17e4e298e2fdab5196ee2223fc2bd9",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -435,14 +431,14 @@
     [
         "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/layouts",
         {
-            "state": "u",
             "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/layouts",
             "isDirectory": true,
+            "size": 384,
+            "modifiedTime": 1530608467513,
+            "changeTime": 1530608467513,
+            "contentHash": "1ee65111dad0a428ee9ea3bfe2b67aad9281fa3c",
             "isMetadataFile": false,
-            "size": 320,
-            "modifiedTime": 1530522926643,
-            "changeTime": 1530522926643,
-            "contentHash": "459230311d629c5cd14846e931bd4971a9554a02"
+            "state": "u"
         }
     ],
     [
@@ -553,14 +549,14 @@
     [
         "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects",
         {
-            "state": "u",
             "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects",
             "isDirectory": true,
+            "size": 384,
+            "modifiedTime": 1530608467507,
+            "changeTime": 1530608467507,
+            "contentHash": "2b3aff8986d6b6c53fa73c6ecca2a65e1d3ce43c",
             "isMetadataFile": false,
-            "size": 320,
-            "modifiedTime": 1530522926636,
-            "changeTime": 1530522926636,
-            "contentHash": "6eeb9ee1f0a5a2668f04a443f7743276ced6c738"
+            "state": "u"
         }
     ],
     [
@@ -2293,14 +2289,12 @@
         {
             "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/tabs",
             "isDirectory": true,
-            "size": 288,
-            "modifiedTime": 1530521133232,
-            "changeTime": 1530521133232,
-            "contentHash": "9c58a8241a41292295297ebfe0a3409f5eda9521",
+            "size": 352,
+            "modifiedTime": 1530608467516,
+            "changeTime": 1530608467516,
+            "contentHash": "de52d84b037aff67afe8594f5f4aeba7dccb75cb",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -2426,157 +2420,534 @@
     [
         "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Product2/fields/image__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Product2/fields/image__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 309,
             "modifiedTime": 1530522926638,
             "changeTime": 1530522926638,
-            "contentHash": "1d4b78346c122f55f55757acca1002b92269a31c"
+            "contentHash": "1d4b78346c122f55f55757acca1002b92269a31c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Product2/fields/pic__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Product2/fields/pic__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 444,
             "modifiedTime": 1530522926639,
             "changeTime": 1530522926639,
-            "contentHash": "b30fe3cc4d34e6a8f6158c5614e1bae17d936547"
+            "contentHash": "b30fe3cc4d34e6a8f6158c5614e1bae17d936547",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/layouts/Product2-Product Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/layouts/Product2-Product Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3095,
             "modifiedTime": 1530522926643,
             "changeTime": 1530522926643,
-            "contentHash": "7e2deb6e2ea4b4c9c66df8eba6ecb51c843f6b10"
+            "contentHash": "7e2deb6e2ea4b4c9c66df8eba6ecb51c843f6b10",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
+            "size": 31613,
+            "modifiedTime": 1530608467563,
+            "changeTime": 1530608467563,
+            "contentHash": "75cc739bda8ce30251c312651b0128397e5d3c53",
             "isMetadataFile": true,
-            "size": 30324,
-            "modifiedTime": 1530522926666,
-            "changeTime": 1530522926666,
-            "contentHash": "a20f1f27756c68a58e26771edff6d5270d5ec971"
+            "state": "u"
         }
     ],
     [
         "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 15525,
+            "modifiedTime": 1530608467577,
+            "changeTime": 1530608467577,
+            "contentHash": "72a5db102a36dce622d0e8bd06972067d3e1ee8f",
             "isMetadataFile": true,
-            "size": 14900,
-            "modifiedTime": 1530522926674,
-            "changeTime": 1530522926674,
-            "contentHash": "30329b2f947c0ca8c5e1cccd96df6ef33c48a4d6"
+            "state": "u"
         }
     ],
     [
         "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 15187,
+            "modifiedTime": 1530608467587,
+            "changeTime": 1530608467587,
+            "contentHash": "c6fe435c6006fe94f07f6a127033deaf4e929484",
             "isMetadataFile": true,
-            "size": 14562,
-            "modifiedTime": 1530522926699,
-            "changeTime": 1530522926699,
-            "contentHash": "ad9196691f066d6cc44b85c1da80fbe71c2d3277"
+            "state": "u"
         }
     ],
     [
         "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 15187,
+            "modifiedTime": 1530608467595,
+            "changeTime": 1530608467595,
+            "contentHash": "c6fe435c6006fe94f07f6a127033deaf4e929484",
             "isMetadataFile": true,
-            "size": 14562,
-            "modifiedTime": 1530522926710,
-            "changeTime": 1530522926710,
-            "contentHash": "ad9196691f066d6cc44b85c1da80fbe71c2d3277"
+            "state": "u"
         }
     ],
     [
         "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/permissionsets/ugly_demo_app.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/permissionsets/ugly_demo_app.permissionset-meta.xml",
             "isDirectory": false,
+            "size": 14290,
+            "modifiedTime": 1530609346903,
+            "changeTime": 1530609346903,
+            "contentHash": "9d29917de0cfa88f7dc93fee2da51f76ee2aeeb2",
             "isMetadataFile": true,
-            "size": 14293,
-            "modifiedTime": 1530522926733,
-            "changeTime": 1530522926733,
-            "contentHash": "58639de0c33b8bbbb4825f338105155a9e428c06"
+            "state": "u"
         }
     ],
     [
         "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Product2/fields",
         {
-            "state": "u",
             "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Product2/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1530522926638,
             "changeTime": 1530522926638,
-            "contentHash": "9ad50cda804d2ebdcb7db0f55728fdbea9ad8ada"
+            "contentHash": "9ad50cda804d2ebdcb7db0f55728fdbea9ad8ada",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Product2",
         {
-            "state": "u",
             "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Product2",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1530522926636,
             "changeTime": 1530522926636,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/profiles",
         {
-            "state": "u",
             "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1530522926710,
             "changeTime": 1530522926710,
-            "contentHash": "15d8b68bef3142dc9da80c94e822e4e0e39b6ecb"
+            "contentHash": "15d8b68bef3142dc9da80c94e822e4e0e39b6ecb",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/permissionsets",
         {
-            "state": "u",
             "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1530608467596,
+            "changeTime": 1530608467596,
+            "contentHash": "4239762c6780a34920fb7e57b13fc74fe75dd398",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Train__c/Train__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Train__c/Train__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2160,
+            "modifiedTime": 1530608467495,
+            "changeTime": 1530608467495,
+            "contentHash": "774d28af4720d94eb303f867408fe974d00e91a2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Train__c/fields/Arrival__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Train__c/fields/Arrival__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 311,
+            "modifiedTime": 1530608467496,
+            "changeTime": 1530608467496,
+            "contentHash": "ad4cc63848af7bca5cae14df821f554e4b35b390",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Train__c/fields/Category__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Train__c/fields/Category__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1001,
+            "modifiedTime": 1530608467496,
+            "changeTime": 1530608467496,
+            "contentHash": "43ac7c8aaf2e116dcb85a59bc12ebbcd80c3e129",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Train__c/fields/Couch_Class_Price__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Train__c/fields/Couch_Class_Price__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 383,
+            "modifiedTime": 1530608467497,
+            "changeTime": 1530608467497,
+            "contentHash": "3b07ad1761575cafc78cf5d0d3666559da99aebb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Train__c/fields/Departure__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Train__c/fields/Departure__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 315,
+            "modifiedTime": 1530608467497,
+            "changeTime": 1530608467497,
+            "contentHash": "cd358210165cd6b6a1bce1397b9285dba4e76e82",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Train__c/fields/First_Class_Price__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Train__c/fields/First_Class_Price__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 383,
+            "modifiedTime": 1530608467498,
+            "changeTime": 1530608467498,
+            "contentHash": "08a463f6df25a8f4dd66079af83280525e76266c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Train__c/fields/From__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Train__c/fields/From__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 489,
+            "modifiedTime": 1530608467498,
+            "changeTime": 1530608467498,
+            "contentHash": "751c869710330300848ace981c5763f3191b8ffe",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Train__c/fields/To__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Train__c/fields/To__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 481,
+            "modifiedTime": 1530608467499,
+            "changeTime": 1530608467499,
+            "contentHash": "e0377d3a64cfeef6aa0508b6bcae2c2a7b027206",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Station__c/Station__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Station__c/Station__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2105,
+            "modifiedTime": 1530608467508,
+            "changeTime": 1530608467508,
+            "contentHash": "c8184603dda03cb4b00a601c69085cb5ad663a49",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Station__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Station__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1530608467508,
+            "changeTime": 1530608467508,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/layouts/Train__c-Train Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/layouts/Train__c-Train Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2941,
+            "modifiedTime": 1530608467511,
+            "changeTime": 1530608467511,
+            "contentHash": "0a8fd4a8e70150c6ee7ccbf489daf8504dddb364",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/layouts/Station__c-Station Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/layouts/Station__c-Station Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2187,
+            "modifiedTime": 1530608467513,
+            "changeTime": 1530608467513,
+            "contentHash": "d472609c2d4591fe862b90cc99c4917245ef55c7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/flexipages/Almaviva_UtilityBar.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/flexipages/Almaviva_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 382,
+            "modifiedTime": 1530608467514,
+            "changeTime": 1530608467514,
+            "contentHash": "aa9c5acc2ad84e3cdba5a39b8f0cc3d72a71a0f8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/tabs/Station__c.tab-meta.xml",
+        {
+            "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/tabs/Station__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 221,
+            "modifiedTime": 1530608467515,
+            "changeTime": 1530608467515,
+            "contentHash": "99ad59b0f67ecf7d00cfef6ed7b06faa99ff7657",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/tabs/Train__c.tab-meta.xml",
+        {
+            "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/tabs/Train__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1530608467516,
+            "changeTime": 1530608467516,
+            "contentHash": "d528a831deb8ba355eb939b6f84f3b0186c6d4be",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/applications/Almaviva.app-meta.xml",
+        {
+            "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/applications/Almaviva.app-meta.xml",
+            "isDirectory": false,
+            "size": 707,
+            "modifiedTime": 1530608467518,
+            "changeTime": 1530608467518,
+            "contentHash": "87ddc19dc394ba0a26627b6f2d74066ce7333415",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objectTranslations/Station__c-fr/Station__c-fr.objectTranslation-meta.xml",
+        {
+            "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objectTranslations/Station__c-fr/Station__c-fr.objectTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 403,
+            "modifiedTime": 1530608467519,
+            "changeTime": 1530608467519,
+            "contentHash": "891ba02d56fe6d4d9d740edbf3fed8af27282a24",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/permissionsets/Almaviva.permissionset-meta.xml",
+        {
+            "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/permissionsets/Almaviva.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 1571,
+            "modifiedTime": 1530608467597,
+            "changeTime": 1530608467597,
+            "contentHash": "04a3040c899fcbe1708bdc2408af3e7fa16d7e95",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/contentassets/company_102017_ENG_ico.asset-meta.xml",
+        {
+            "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/contentassets/company_102017_ENG_ico.asset-meta.xml",
+            "isDirectory": false,
+            "size": 557,
+            "modifiedTime": 1530608467598,
+            "changeTime": 1530608467598,
+            "contentHash": "2917b3239cdeca627fcb35f477c5386a3887e855",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/contentassets/company_102017_ENG_ico.asset",
+        {
+            "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/contentassets/company_102017_ENG_ico.asset",
+            "isDirectory": false,
+            "size": 15198,
+            "modifiedTime": 1530608467599,
+            "changeTime": 1530608467599,
+            "contentHash": "31fc7d439710a3decdbd49c646c78a8a5befb807",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Train__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Train__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1530610206019,
+            "changeTime": 1530610206019,
+            "contentHash": "7e2b39f41b1b653c08e9819f30c1ac9f72f4c93b"
+        }
+    ],
+    [
+        "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Train__c/fields",
+        {
+            "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Train__c/fields",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1530608467498,
+            "changeTime": 1530608467498,
+            "contentHash": "95efed1b61d6abd911cc7477d7fb67bcbb49d751",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Station__c",
+        {
+            "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Station__c",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1530608467508,
+            "changeTime": 1530608467508,
+            "contentHash": "c9607e63bc14e782eab102940dedadfebd2be400",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Station__c/listViews",
+        {
+            "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Station__c/listViews",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1530608467508,
+            "changeTime": 1530608467508,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objectTranslations/Station__c-fr",
+        {
+            "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objectTranslations/Station__c-fr",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1530608467519,
+            "changeTime": 1530608467519,
+            "contentHash": "d4c2534f690cdbd21644551469b53f076269c507",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objectTranslations",
+        {
+            "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objectTranslations",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1530608467519,
+            "changeTime": 1530608467519,
+            "contentHash": "8f096ec369677adead45e58099fc32c588156fa4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/contentassets",
+        {
+            "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1530608467599,
+            "changeTime": 1530608467599,
+            "contentHash": "40324029198e904e6e1a58d6459f9f7122600599",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Train__c/listViews/All_Trains.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Train__c/listViews/All_Trains.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 370,
+            "modifiedTime": 1530610206020,
+            "changeTime": 1530610206020,
+            "contentHash": "138351a9ed3b014fbdd036afd3070e78fee45de7"
+        }
+    ],
+    [
+        "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Train__c/listViews",
+        {
+            "state": "u",
+            "sourcePath": "/Users/arieunier/Documents/DEV_SRC/uglydemo_sfdx/force-app/main/default/objects/Train__c/listViews",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 96,
-            "modifiedTime": 1530522926733,
-            "changeTime": 1530522926733,
-            "contentHash": "6903585dd2fcd1eecc3f14ab613ae30970825501"
+            "modifiedTime": 1530610206020,
+            "changeTime": 1530610206020,
+            "contentHash": "d34d3462cf1c81215bff2d34e3f03cc7daf637fd"
         }
     ]
 ]

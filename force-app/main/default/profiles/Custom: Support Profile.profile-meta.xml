@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <applicationVisibilities>
+        <application>Almaviva</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
+    <applicationVisibilities>
         <application>Ugly_Demo_Application</application>
         <default>false</default>
         <visible>false</visible>
@@ -238,12 +243,12 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Product2.image__c</field>
+        <field>Train__c.Couch_Class_Price__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
-        <field>Product2.pic__c</field>
+        <editable>true</editable>
+        <field>Train__c.First_Class_Price__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -305,11 +310,25 @@
         <layout>Product2-Product Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Station__c-Station Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Train__c-Train Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>heroku_logs__c-heroku-logs Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>webusers__c-webuser Layout</layout>
     </layoutAssignments>
+    <tabVisibilities>
+        <tab>Station__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Train__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
