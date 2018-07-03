@@ -1,0 +1,18 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Station__c",
+                "referenceId": "Station__cRef1"
+            },
+            "Name": "Milano"
+        },
+        {
+            "attributes": {
+                "type": "Station__c",
+                "referenceId": "Station__cRef2"
+            },
+            "Name": "Roma"
+        }
+    ]
+}

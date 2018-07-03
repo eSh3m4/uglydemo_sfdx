@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "Station__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "sfdx-demo-data-Station__cs.json"
+        ]
+    }
+]
