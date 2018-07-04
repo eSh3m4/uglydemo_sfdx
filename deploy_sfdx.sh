@@ -37,7 +37,7 @@ done
 
 
 echo "Pushing test data into $SCRATCHORGALIAS" 
-sfdx force:data:tree:import --plan ./data/*plan.json --targetusername $SCRATCHORGALIAS
+#sfdx force:data:tree:import --plan ./data/*plan.json --targetusername $SCRATCHORGALIAS
 for i in `find . -type f -name '*plan.json'`
 do
     echo 'Treating data file  : '$i

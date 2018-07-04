@@ -9,6 +9,7 @@
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <label>Ugly Demo Application</label>
     <navType>Standard</navType>
+    <tabs>standard-Product2</tabs>
     <tabs>GameActivity__c</tabs>
     <tabs>Match__c</tabs>
     <tabs>Participant__c</tabs>

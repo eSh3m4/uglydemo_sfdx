@@ -1,0 +1,6 @@
+#Mapping values
+#Wed Jul 04 13:25:55 CEST 2018
+QUESTION__C=question__c
+PARTICIPANT_VISITOR__C=Participant_Visitor__r\:externalid__c
+GAMEACTIVITY__C=GameActivity__r\:externalid__c
+PARTICIPANT_HOME__C=Participant_Home__r\:externalid__c

@@ -7,329 +7,224 @@
             },
             "Description__c": "ssociazione Sportiva Roma, commonly referred to as simply Roma, is a professional Italian football club based in Rome",
             "image__c": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/AS_Roma_logo_%282013%29.svg/1200px-AS_Roma_logo_%282013%29.svg.png",
-            "Name": "AS Roma"
+            "Name": "AS Roma",
+            "externalid__c": "a070N00001BeBTxQAN"
         },
         {
             "attributes": {
                 "type": "Participant__c",
                 "referenceId": "Participant__cRef2"
             },
-            "Description__c": "For over two centuries, Hennessy has written new chapters in the story of cognac. Today, the House is the unrivaled market leader and one of the top high-end spirits brands in the world.",
-            "image__c": "https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/7/2015/01/XO-Appartement-103-620x330.jpg",
-            "Name": "Hennessy"
+            "Description__c": "Real Madrid Club de Fútbol, commonly known as Real Madrid, or simply as Real, is a professional football club based in Madrid, Spain. Founded on 6 March 1902 as Madrid Football Club, the club has traditionally worn a white home kit since inception",
+            "image__c": "http://www.stickpng.com/assets/images/584a9b47b080d7616d298778.png",
+            "Name": "Real Madrid FC",
+            "externalid__c": "a070N00001Be7b1QAB"
         },
         {
             "attributes": {
                 "type": "Participant__c",
                 "referenceId": "Participant__cRef3"
             },
-            "Description__c": "Real Madrid Club de Fútbol, commonly known as Real Madrid, or simply as Real, is a professional football club based in Madrid, Spain. Founded on 6 March 1902 as Madrid Football Club, the club has traditionally worn a white home kit since inception",
-            "image__c": "http://www.stickpng.com/assets/images/584a9b47b080d7616d298778.png",
-            "Name": "Real Madrid FC"
+            "Description__c": "Yoda ..",
+            "image__c": "https://vignette.wikia.nocookie.net/disney/images/9/95/Master_Yoda.png/revision/latest?cb=20151112212224",
+            "Name": "Yoda",
+            "externalid__c": "a070N00001BeERBQA3"
         },
         {
             "attributes": {
                 "type": "Participant__c",
                 "referenceId": "Participant__cRef4"
             },
-            "Description__c": "Dom Pérignon is only available as a vintage. Only the best grapes are selected. Each vintage is unique and reinterprets the unique character of the seasons. Dom Pérignon reinvents itself with each vintage, always taking risks. Even to the point of not declaring a vintage.",
-            "image__c": "https://r.lvmh-static.com/uploads/2014/10/domperignon_identite.jpg",
-            "Name": "Don Pérignon"
+            "Description__c": "Darth",
+            "image__c": "https://vignette.wikia.nocookie.net/starwars/images/c/c2/Darth-Vader-RO-SWCT.png/revision/latest?cb=20170507213950",
+            "Name": "Darth Vador",
+            "externalid__c": "a070N00001BeERQQA3"
         },
         {
             "attributes": {
                 "type": "Participant__c",
                 "referenceId": "Participant__cRef5"
             },
-            "Description__c": "The product of a unique terroir and exceptional savoir-faire, the Château Cheval Blanc's grand cru perpetuates the legend of one of the most prestigious Bordeaux wines, vintage after vintage.",
-            "image__c": "http://images.lpcdn.ca/641x427/201312/16/786515-bouteille-cheval-blanc-1947.jpg",
-            "Name": "Château Cheval Blanc"
+            "Description__c": "CR7",
+            "image__c": "http://www3.pictures.zimbio.com/gi/Cristiano+Ronaldo+Real+Madrid+CF+v+Real+Betis+OZVlSXaPbqel.jpg",
+            "Name": "Cristiano Ronaldo",
+            "externalid__c": "a070N00001BeERRQA3"
         },
         {
             "attributes": {
                 "type": "Participant__c",
                 "referenceId": "Participant__cRef6"
             },
-            "Description__c": "Yoda ..",
-            "image__c": "https://vignette.wikia.nocookie.net/disney/images/9/95/Master_Yoda.png/revision/latest?cb=20151112212224",
-            "Name": "Yoda"
+            "Description__c": "Juventus Football Club S.p.A., colloquially known as Juve, is a professional Italian football club in Turin, Piedmont",
+            "image__c": "https://i2.wp.com/www.lintasnasional.com/wp-content/uploads/2017/01/1072484d-46e9-4fcc-8228-35c60c427fa1_169.jpeg",
+            "Name": "Juventus F.C.",
+            "externalid__c": "a070N00001BgRQ7QAN"
         },
         {
             "attributes": {
                 "type": "Participant__c",
                 "referenceId": "Participant__cRef7"
             },
-            "Description__c": "Darth",
-            "image__c": "https://vignette.wikia.nocookie.net/starwars/images/c/c2/Darth-Vader-RO-SWCT.png/revision/latest?cb=20170507213950",
-            "Name": "Darth Vador"
+            "image__c": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Trenitalia_logo.svg",
+            "Name": "Trenitalia",
+            "externalid__c": "a070N00001ER8J4QAL"
         },
         {
             "attributes": {
                 "type": "Participant__c",
                 "referenceId": "Participant__cRef8"
             },
-            "Description__c": "CR7",
-            "image__c": "http://www3.pictures.zimbio.com/gi/Cristiano+Ronaldo+Real+Madrid+CF+v+Real+Betis+OZVlSXaPbqel.jpg",
-            "Name": "Cristiano Ronaldo"
+            "image__c": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png",
+            "Name": "India",
+            "externalid__c": "a070N00001ER8JiQAL"
         },
         {
             "attributes": {
                 "type": "Participant__c",
                 "referenceId": "Participant__cRef9"
             },
-            "Description__c": "Raised to the ranks of Premier Cru Supérieur appellation in 1855, Château d'Yquem is the product of meticulous work in the vineyard. Since its beginnings, it has benefited from an exceptional terroir, as well as being the result of a unique ancestral know-how since 1593.",
-            "image__c": "http://yquem.fr/img/share-picture-1200x800.jpg",
-            "Name": "Château d'Yquem"
+            "Description__c": "Japan Train",
+            "image__c": "https://media-cdn.tripadvisor.com/media/photo-s/0f/71/aa/81/scmaglev-and-railway.jpg",
+            "Name": "SCMaglev",
+            "externalid__c": "a070N00001ER8FgQAL"
         },
         {
             "attributes": {
                 "type": "Participant__c",
                 "referenceId": "Participant__cRef10"
             },
-            "Description__c": "ocated in Morey-Saint-Denis on the Route des Grands Crus, Clos des Lambrays is one of Burgundy’s oldest and most prestigious vineyards. There are references to the estate in the records of the Abbaye de Citeaux dating back to 1365",
-            "image__c": "https://s3.amazonaws.com/crush-online-assets/Lambrays2014.jpg",
-            "Name": "Clos des Lambrays"
+            "Description__c": "French Train",
+            "image__c": "https://www.eurail.com/content/dam/images/eurail/tgv_high-spped_train_france.adaptive.767.0.jpg",
+            "Name": "TGV",
+            "externalid__c": "a070N00001ER8G0QAL"
         },
         {
             "attributes": {
                 "type": "Participant__c",
                 "referenceId": "Participant__cRef11"
             },
-            "image__c": "https://bucketeer-ce1d6914-e27c-4df1-9562-fba094288ed3.s3.eu-west-1.amazonaws.com/public/image003.jpg",
-            "Name": "Test0003"
+            "Description__c": "Fußball-Club Bayern München e.V., commonly known as FC Bayern München, FCB, Bayern Munich, or FC Bayern, is a German sports club based in Munich, Bavaria.",
+            "image__c": "https://upload.wikimedia.org/wikipedia/fi/d/d4/FC_Bayern_M%C3%BCnchenin_logo.svg",
+            "Name": "Bayern Munich FC",
+            "externalid__c": "a070N00001BeBU7QAN"
         },
         {
             "attributes": {
                 "type": "Participant__c",
                 "referenceId": "Participant__cRef12"
             },
-            "image__c": "https://media.licdn.com/dms/image/C5603AQGqJq0MOjGmjg/profile-displayphoto-shrink_800_800/0?e=1531958400&v=beta&t=XPe38hI8Z0JvV1MNYE_7MQXT5EVo-Zne-0byj6J1QVE",
-            "Name": "Esther Garcia"
+            "Description__c": "Futbol Club Barcelona, commonly known as Barcelona and familiarly as Barça, is a professional football club based in Barcelona, Catalonia, Spain.",
+            "image__c": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/559px-Logo_FC_Barcelona.svg.png",
+            "Name": "FC Barcelona",
+            "externalid__c": "a070N00001Be7b6QAB"
         },
         {
             "attributes": {
                 "type": "Participant__c",
                 "referenceId": "Participant__cRef13"
             },
-            "Description__c": "Juventus Football Club S.p.A., colloquially known as Juve, is a professional Italian football club in Turin, Piedmont",
-            "image__c": "https://i2.wp.com/www.lintasnasional.com/wp-content/uploads/2017/01/1072484d-46e9-4fcc-8228-35c60c427fa1_169.jpeg",
-            "Name": "Juventus F.C."
+            "Description__c": "Liverpool Football Club is a professional football club in Liverpool, England, which competes in the Premier League, the top tier of English football",
+            "image__c": "https://vignette.wikia.nocookie.net/uncyclopedia/images/b/b2/Liverpool_FC_logo.png/revision/latest?cb=20060619221959",
+            "Name": "Liverpool FC",
+            "externalid__c": "a070N00001BeBTsQAN"
         },
         {
             "attributes": {
                 "type": "Participant__c",
                 "referenceId": "Participant__cRef14"
             },
-            "image__c": "https://fr.loccitane.com/img/lib/MODULES/OCC_c7e75c7e5755418abdff612d794fa141.png",
-            "Name": "Immortelle"
+            "Description__c": "False",
+            "image__c": "https://cdn.iconscout.com/public/images/icon/free/png-512/false-delete-remove-cross-wrong-306c19a71a478768-512x512.png",
+            "Name": "False",
+            "externalid__c": "a070N00001BeRs3QAF"
         },
         {
             "attributes": {
                 "type": "Participant__c",
                 "referenceId": "Participant__cRef15"
             },
-            "image__c": "https://fr.loccitane.com/img/lib/MODULES/OCC_deb9adb52a4d4459a8dbfa645df3d498.jpg",
-            "Name": "Cedrat"
+            "Description__c": "True",
+            "image__c": "https://cdn.iconscout.com/public/images/icon/free/png-512/right-true-verify-perfect-trust-3b212cc4df42340d-512x512.png",
+            "Name": "True",
+            "externalid__c": "a070N00001BeRryQAF"
         },
         {
             "attributes": {
                 "type": "Participant__c",
                 "referenceId": "Participant__cRef16"
             },
-            "image__c": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Trenitalia_logo.svg",
-            "Name": "Trenitalia"
+            "Description__c": "Zizou :)",
+            "image__c": "http://i.dailymail.co.uk/i/pix/2013/05/27/article-0-0D573DE5000005DC-610_306x444.jpg",
+            "Name": "Zinedine Zidane",
+            "externalid__c": "a070N00001BeERkQAN"
         },
         {
             "attributes": {
                 "type": "Participant__c",
                 "referenceId": "Participant__cRef17"
             },
-            "image__c": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png",
-            "Name": "India"
+            "Description__c": "Middlesbrough Football Club is a professional association football club based in",
+            "image__c": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Middlesbrough_FC_crest.svg/200px-Middlesbrough_FC_crest.svg.png",
+            "Name": "Middlesbrough F.C.",
+            "externalid__c": "a070N00001BeFEKQA3"
         },
         {
             "attributes": {
                 "type": "Participant__c",
                 "referenceId": "Participant__cRef18"
             },
-            "Description__c": "Japan Train",
-            "image__c": "https://media-cdn.tripadvisor.com/media/photo-s/0f/71/aa/81/scmaglev-and-railway.jpg",
-            "Name": "SCMaglev"
+            "Description__c": "Son of Odin",
+            "image__c": "http://img.jakpost.net/c/2017/10/25/2017_10_25_34644_1508914269._large.jpg",
+            "Name": "Thor",
+            "externalid__c": "a070N00001Bei9SQAR"
         },
         {
             "attributes": {
                 "type": "Participant__c",
                 "referenceId": "Participant__cRef19"
             },
-            "Description__c": "French Train",
-            "image__c": "https://www.eurail.com/content/dam/images/eurail/tgv_high-spped_train_france.adaptive.767.0.jpg",
-            "Name": "TGV"
+            "Description__c": "Doctor Manhattan, often stylised as Dr. Manhattan, is a fictional character who appears in American comic books published by DC Comics. He debuted in the graphic novel miniseries Watchmen, published in 1986 and 1987",
+            "image__c": "https://www.superherodb.com/pictures2/portraits/10/100/884.jpg",
+            "Name": "Doctor Manhattan",
+            "externalid__c": "a070N00001BeiA6QAJ"
         },
         {
             "attributes": {
                 "type": "Participant__c",
                 "referenceId": "Participant__cRef20"
             },
-            "Description__c": "Fußball-Club Bayern München e.V., commonly known as FC Bayern München, FCB, Bayern Munich, or FC Bayern, is a German sports club based in Munich, Bavaria.",
-            "image__c": "https://upload.wikimedia.org/wikipedia/fi/d/d4/FC_Bayern_M%C3%BCnchenin_logo.svg",
-            "Name": "Bayern Munich FC"
+            "Description__c": "Another Goddess",
+            "image__c": "https://assets.change.org/photos/7/wk/bh/pUWkBhduwOtRAVV-800x450-noPad.jpg",
+            "Name": "Wonder Woman",
+            "externalid__c": "a070N00001Bei9XQAR"
         },
         {
             "attributes": {
                 "type": "Participant__c",
                 "referenceId": "Participant__cRef21"
             },
-            "Description__c": "Futbol Club Barcelona, commonly known as Barcelona and familiarly as Barça, is a professional football club based in Barcelona, Catalonia, Spain.",
-            "image__c": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/559px-Logo_FC_Barcelona.svg.png",
-            "Name": "FC Barcelona"
+            "Description__c": "Associazione Calcio Milan, commonly referred to as A.C. Milan or simply Milan, is a professional football club in Milan, Italy, founded in 1899.",
+            "image__c": "https://pre00.deviantart.net/6c34/th/pre/i/2014/055/b/1/ac_milan_logo_2013_by_dyrealsa-d6vno7g.png",
+            "Name": "AC Milan",
+            "externalid__c": "a070N00001BgRPsQAN"
         },
         {
             "attributes": {
                 "type": "Participant__c",
                 "referenceId": "Participant__cRef22"
             },
-            "Description__c": "Liverpool Football Club is a professional football club in Liverpool, England, which competes in the Premier League, the top tier of English football",
-            "image__c": "https://vignette.wikia.nocookie.net/uncyclopedia/images/b/b2/Liverpool_FC_logo.png/revision/latest?cb=20060619221959",
-            "Name": "Liverpool FC"
+            "image__c": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Great_Britain_%281707%E2%80%931800%29.svg/255px-Flag_of_Great_Britain_%281707%E2%80%931800%29.svg.png",
+            "Name": "Great Britain",
+            "externalid__c": "a070N00001ER8JnQAL"
         },
         {
             "attributes": {
                 "type": "Participant__c",
                 "referenceId": "Participant__cRef23"
             },
-            "Description__c": "First champagne House, Ruinart is the symbol of a savoir-faire and an \"art de vivre\" that are famed all over the world. Each of its cuvées bears the distinctive signature of chardonnay, the House's emblematic grape variety.",
-            "image__c": "https://r.lvmh-static.com/uploads/2014/09/ruinart_thumb2-620x408.jpg",
-            "Name": "Ruinart"
-        },
-        {
-            "attributes": {
-                "type": "Participant__c",
-                "referenceId": "Participant__cRef24"
-            },
-            "Description__c": "For 250 years, Veuve Clicquot champagnes have been enhancing the finest receptions, because they represent a chic and audacious \"art de vivre\" that the House has been cultivating since its creation.",
-            "image__c": "https://r.lvmh-static.com/uploads/2014/10/veuveclicquot_identite.jpg",
-            "Name": "Veuve Cliquot"
-        },
-        {
-            "attributes": {
-                "type": "Participant__c",
-                "referenceId": "Participant__cRef25"
-            },
-            "Description__c": "False",
-            "image__c": "https://cdn.iconscout.com/public/images/icon/free/png-512/false-delete-remove-cross-wrong-306c19a71a478768-512x512.png",
-            "Name": "False"
-        },
-        {
-            "attributes": {
-                "type": "Participant__c",
-                "referenceId": "Participant__cRef26"
-            },
-            "Description__c": "True",
-            "image__c": "https://cdn.iconscout.com/public/images/icon/free/png-512/right-true-verify-perfect-trust-3b212cc4df42340d-512x512.png",
-            "Name": "True"
-        },
-        {
-            "attributes": {
-                "type": "Participant__c",
-                "referenceId": "Participant__cRef27"
-            },
-            "Description__c": "Driven by its pioneering spirit, Moët & Chandon has always produced a Champagne with an inimitable identity.",
-            "image__c": "https://images-na.ssl-images-amazon.com/images/I/419b-8-dL8L.jpg",
-            "Name": "Moët & Chandon"
-        },
-        {
-            "attributes": {
-                "type": "Participant__c",
-                "referenceId": "Participant__cRef28"
-            },
-            "Description__c": "Zizou :)",
-            "image__c": "http://i.dailymail.co.uk/i/pix/2013/05/27/article-0-0D573DE5000005DC-610_306x444.jpg",
-            "Name": "Zinedine Zidane"
-        },
-        {
-            "attributes": {
-                "type": "Participant__c",
-                "referenceId": "Participant__cRef29"
-            },
-            "Description__c": "Middlesbrough Football Club is a professional association football club based in",
-            "image__c": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Middlesbrough_FC_crest.svg/200px-Middlesbrough_FC_crest.svg.png",
-            "Name": "Middlesbrough F.C."
-        },
-        {
-            "attributes": {
-                "type": "Participant__c",
-                "referenceId": "Participant__cRef30"
-            },
-            "Description__c": "Son of Odin",
-            "image__c": "http://img.jakpost.net/c/2017/10/25/2017_10_25_34644_1508914269._large.jpg",
-            "Name": "Thor"
-        },
-        {
-            "attributes": {
-                "type": "Participant__c",
-                "referenceId": "Participant__cRef31"
-            },
-            "Description__c": "Doctor Manhattan, often stylised as Dr. Manhattan, is a fictional character who appears in American comic books published by DC Comics. He debuted in the graphic novel miniseries Watchmen, published in 1986 and 1987",
-            "image__c": "https://www.superherodb.com/pictures2/portraits/10/100/884.jpg",
-            "Name": "Doctor Manhattan"
-        },
-        {
-            "attributes": {
-                "type": "Participant__c",
-                "referenceId": "Participant__cRef32"
-            },
-            "Description__c": "Another Goddess",
-            "image__c": "https://assets.change.org/photos/7/wk/bh/pUWkBhduwOtRAVV-800x450-noPad.jpg",
-            "Name": "Wonder Woman"
-        },
-        {
-            "attributes": {
-                "type": "Participant__c",
-                "referenceId": "Participant__cRef33"
-            },
-            "image__c": "https://media.licdn.com/dms/image/C4D03AQFfnAUPgLxJVQ/profile-displayphoto-shrink_200_200/0?e=1531958400&v=beta&t=v9s4wb5ixda47pABQ_wvjXDJAPE8gzXiSH2WlnOn3pE",
-            "Name": "Augustin Rieunier"
-        },
-        {
-            "attributes": {
-                "type": "Participant__c",
-                "referenceId": "Participant__cRef34"
-            },
-            "Description__c": "Associazione Calcio Milan, commonly referred to as A.C. Milan or simply Milan, is a professional football club in Milan, Italy, founded in 1899.",
-            "image__c": "https://pre00.deviantart.net/6c34/th/pre/i/2014/055/b/1/ac_milan_logo_2013_by_dyrealsa-d6vno7g.png",
-            "Name": "AC Milan"
-        },
-        {
-            "attributes": {
-                "type": "Participant__c",
-                "referenceId": "Participant__cRef35"
-            },
-            "image__c": "https://assets.publishing.service.gov.uk/media/56a661c0ed915d6d2a00002a/160122_Burkina_Faso_jpeg.jpg",
-            "Name": "Burkina Faso"
-        },
-        {
-            "attributes": {
-                "type": "Participant__c",
-                "referenceId": "Participant__cRef36"
-            },
-            "image__c": "https://cdn.britannica.com/700x450/75/5075-004-8665B7DC.jpg",
-            "Name": "Ghana"
-        },
-        {
-            "attributes": {
-                "type": "Participant__c",
-                "referenceId": "Participant__cRef37"
-            },
-            "image__c": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Great_Britain_%281707%E2%80%931800%29.svg/255px-Flag_of_Great_Britain_%281707%E2%80%931800%29.svg.png",
-            "Name": "Great Britain"
-        },
-        {
-            "attributes": {
-                "type": "Participant__c",
-                "referenceId": "Participant__cRef38"
-            },
             "image__c": "http://www.from-paris.com/wp-content/uploads/2012/06/logo-SNCF.jpeg",
-            "Name": "SNCF"
+            "Name": "SNCF",
+            "externalid__c": "a070N00001ER8IfQAL"
         }
     ]
 }
