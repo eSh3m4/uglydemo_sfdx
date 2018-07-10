@@ -23,7 +23,7 @@ read -p "------------- You can work on the org "
 
 
 echo "Pushing all source code to the org $SCRATCHORGALIAS" 
-sfdx force:source:push -u $SCRATCHORGALIAS
+sfdx force:source:push --forceoverwrite -u $SCRATCHORGALIAS
 read -p "------------- Finished, type enter to continue " 
 
 echo "Updating user permissions" 
