@@ -337,7 +337,7 @@
         <layout>Match__c-Match Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Mines__c-Mine Layout</layout>
+        <layout>Mine__c-Mine Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Participant__c-Participant Layout</layout>
@@ -408,7 +408,7 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
-        <object>Mines__c</object>
+        <object>Mine__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
@@ -461,7 +461,7 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>Mines__c</tab>
+        <tab>Mine__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <userLicense>Salesforce</userLicense>

@@ -337,7 +337,7 @@
         <layout>Match__c-Match Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Mines__c-Mine Layout</layout>
+        <layout>Mine__c-Mine Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Participant__c-Participant Layout</layout>
@@ -362,7 +362,7 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>Mines__c</tab>
+        <tab>Mine__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <userLicense>Salesforce</userLicense>

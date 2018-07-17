@@ -11,7 +11,7 @@
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <label>Eramet - Health &amp; Safety</label>
     <navType>Standard</navType>
-    <tabs>Mines__c</tabs>
+    <tabs>Mine__c</tabs>
     <tabs>Incident__c</tabs>
     <tabs>standard-Dashboard</tabs>
     <tabs>standard-report</tabs>
