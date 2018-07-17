@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "Mine__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "sfdx-demo-data-Mine__cs.json"
+        ]
+    }
+]
