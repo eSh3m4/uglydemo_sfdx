@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Women_Happy</fullName>
+    <columns>NAME</columns>
+    <columns>CREATED_DATE</columns>
+    <columns>Smile_value__c</columns>
+    <columns>Emotion__c</columns>
+    <columns>Smile__c</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>Gender__c</field>
+        <operation>equals</operation>
+        <value>female</value>
+    </filters>
+    <filters>
+        <field>Emotion__c</field>
+        <operation>equals</operation>
+        <value>happiness</value>
+    </filters>
+    <label>Women - Happy</label>
+</ListView>
