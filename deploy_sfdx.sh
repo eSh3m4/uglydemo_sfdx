@@ -19,7 +19,7 @@ read -p "------------- Finished, type enter to continue "
 
 echo "------------- Launching web browser !" 
 sfdx force:org:open 
-read -p "------------- You can work on the org " 
+read -p "------------- You can work on the org if you want to .. Beware all changes will be overwritten by the next push" 
 
 
 echo "Pushing all source code to the org $SCRATCHORGALIAS" 
