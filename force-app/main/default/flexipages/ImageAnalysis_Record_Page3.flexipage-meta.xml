@@ -82,7 +82,7 @@
         <componentInstances>
             <componentInstanceProperties>
                 <name>url</name>
-                <value>https://basecampmadrid.herokuapp.com</value>
+                <value>https://yourdemo.herokuapp.com</value>
             </componentInstanceProperties>
             <componentName>MyCustomContent</componentName>
         </componentInstances>
