@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Mine</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Mines</value>
+    </caseValues>
+    <gender>Feminine</gender>
+    <startsWith>Consonant</startsWith>
+    <fields>
+        <label><!-- Mineral Deposit --></label>
+        <name>Mineral_Deposit__c</name>
+        <picklistValues>
+            <masterLabel>Copper</masterLabel>
+            <translation><!-- Copper --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gold</masterLabel>
+            <translation><!-- Gold --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Iron</masterLabel>
+            <translation><!-- Iron --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nickel</masterLabel>
+            <translation><!-- Nickel --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Silver</masterLabel>
+            <translation><!-- Silver --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- externalid --></label>
+        <name>externalid__c</name>
+    </fields>
+</CustomObjectTranslation>

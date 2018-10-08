@@ -1,3 +1,4 @@
 {
-    "defaultusername": "HerokuCampfire"
+    "defaultusername": "HerokuCampfire",
+    "defaultdevhubusername": "HubOrg"
 }
